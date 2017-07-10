@@ -7,7 +7,6 @@ sudo apt-get install plank -y
 sudo apt-get install php -y
 sudo apt-get install php-mysql -y
 sudo apt-get install php-cli -y
-sudo apt-get install phpmyadmin -y
 sudo apt-get install phpunit -y
 sudo apt-get install npm -y
 sudo apt-get install wget -y
