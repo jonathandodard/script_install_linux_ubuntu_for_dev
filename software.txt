@@ -1,0 +1,11 @@
+//phpstorm
+https://www.jetbrains.com/phpstorm/download/#section=linux
+
+//starUML
+http://staruml.io/download
+
+//chrome
+https://www.google.fr/chrome/browser/desktop/index.html?brand=CHBD&gclid=Cj0KCQjwy4zLBRCOARIsADfss37d7pqQNj0tWhFwPYcFtRN7R8OHdP0hoPfIgLxppV6Q9rNHVXkw-94aAjb2EALw_wcB
+
+//VmWare
+https://www.vmware.com/fr/products/workstation/workstation-evaluation.html
