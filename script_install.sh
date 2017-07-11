@@ -1,11 +1,12 @@
 #!/bin/bash
 # Indique au système que l'argument qui suit est le programme utilisé pour exécuter ce fichier
 # En règle générale, les "#" servent à mettre en commentaire le texte qui suit comme ici
+sudo apt install php-mbstring php7.0-mbstring php-gettext libapache2-mod-php7.0 -y
 sudo apt-get install unity-tweak-tool -y
 sudo apt-get install gdebi -y
 sudo apt-get install plank -y
 sudo apt-get install php -y
-sudo apt-get install php-mysql -y
+sudo apt-get install mysql-server -y
 sudo apt-get install php-cli -y
 sudo apt-get install phpunit -y
 sudo apt-get install npm -y
